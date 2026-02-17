@@ -1,3 +1,6 @@
+**Nama:** Ridho Wicaksono
+**NIM:** [241011700593]
+
 # 🤖 Qwen ChatBot
 
 Chatbot berbasis AI menggunakan **Qwen API** dari Alibaba Cloud DashScope. Dibangun dengan Node.js + Express.js + Bootstrap.
